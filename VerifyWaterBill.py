@@ -10,8 +10,8 @@ import  os
 import readConfigFile as cfg
 import GSFileUtilities as utlFGS
 from verifyWaterBillSub import WaterBillVerifySub
-from Utilities import getAsList
-from Utilities import insert_before_key
+from GenUtilities import getAsList
+from GenUtilities import insert_before_key
 
 from tkinter import * 
 

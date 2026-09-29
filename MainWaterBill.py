@@ -8,8 +8,8 @@
 import sys 
 import  os  
 from verifyWaterBillSub import WaterBillVerifySub
-from Utilities import getAsList
-from Utilities import insert_before_key
+from GenUtilities import getAsList
+from GenUtilities import insert_before_key
 import readCSVFile as csvf 
 from writeSpreadSheet import writeSpreadSheet
 
